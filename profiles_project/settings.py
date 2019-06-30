@@ -25,7 +25,7 @@ SECRET_KEY = '1f9(h5+t-6$@5q3ikx$7)m^mjjfa@dtk)t#o7wsbspk^igv*rx'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['nameless-caverns-12975.herokuapp.com/']
+ALLOWED_HOSTS = ['https://nameless-caverns-12975.herokuapp.com']
 
 
 # Application definition
